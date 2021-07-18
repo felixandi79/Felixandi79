@@ -6,6 +6,5 @@
 - 🎓 I’m a college student 
 - 🌱 I'm currently learning Developer(?)
 - 📫 How to reach me : [Telegram](https://t.me/felixxandi79)
-- 😄 Pronouns: he/him/his
 
-![felixandi79 github stats](https://github-stats-alpha.vercel.app/api/?felixandi79=cachecleanerjeet&cc=0000&tc=0000&ic=0000&bc=FFFF)
+

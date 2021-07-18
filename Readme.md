@@ -8,4 +8,4 @@
 - 📫 How to reach me : [Telegram](https://t.me/felixxandi79)
 - 😄 Pronouns: he/him/his
 
-![felixandi79 github stats](https://github-stats-alpha.vercel.app/api/?username=felixandi79=cachecleanerjeet&cc=000&tc=fff&ic=fff&bc=000)
+![felixandi79 github stats](https://github-stats-alpha.vercel.app/api/?felixandi79=cachecleanerjeet&cc=000&tc=fff&ic=fff&bc=000)
